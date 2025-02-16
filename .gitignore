@@ -1,0 +1,15 @@
+# Ignore executable files
+*.exe
+
+# Ignore build files
+build/
+
+# Ignore Visual Studio Files
+*.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+
+# Ignore Visual Studio Build Files
+*.pdb
